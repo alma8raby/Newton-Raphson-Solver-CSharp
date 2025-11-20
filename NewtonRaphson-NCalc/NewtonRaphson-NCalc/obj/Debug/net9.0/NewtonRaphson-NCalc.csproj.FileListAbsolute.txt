@@ -1,0 +1,17 @@
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NewtonRaphson-NCalc.exe
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NewtonRaphson-NCalc.deps.json
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NewtonRaphson-NCalc.runtimeconfig.json
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NewtonRaphson-NCalc.dll
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NewtonRaphson-NCalc.pdb
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\bin\Debug\net9.0\NCalc.dll
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.csproj.AssemblyReference.cache
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.AssemblyInfoInputs.cache
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.AssemblyInfo.cs
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.csproj.CoreCompileInputs.cache
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRa.6912C4AB.Up2Date
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.dll
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\refint\NewtonRaphson-NCalc.dll
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.pdb
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\NewtonRaphson-NCalc.genruntimeconfig.cache
+C:\Users\IBRAHIM\source\repos\NewtonRaphson-NCalc\NewtonRaphson-NCalc\obj\Debug\net9.0\ref\NewtonRaphson-NCalc.dll
